@@ -1,1 +1,231 @@
-# enhansome-aoe2
+# Awesome Age of Empires II resources with stars
+
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 495,445 | 🐛 99 | 📅 2026-06-30 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
+
+You can contribute to this list by opening a [pull request](https://github.com/Arkanosis/awesome-aoe2/pulls) ⭐ 169 | 🐛 5 | 📅 2026-04-01 or [an issue](https://github.com/Arkanosis/awesome-aoe2/pulls) ⭐ 169 | 🐛 5 | 📅 2026-04-01.
+
+As an alternative / complement to this list, you might want to have a look at the [AOE Library](https://www.aoelibrary.com/).
+
+# Contents
+
+* [Websites](#websites)
+  * [Profiles](#profiles)
+  * [Documentation](#documentation)
+  * [Civilization pickers](#civilization-pickers)
+  * [Tools](#tools)
+  * [Statistics](#statistics)
+  * [Guides](#guides)
+  * [Tournaments](#tournaments)
+  * [Wikis](#wikis)
+  * [Communities](#communities)
+  * [Blogs](#blogs)
+  * [Information](#information)
+* [Programs](#programs)
+* [Mods](#mods)
+* [Smartphone apps](#smartphone-apps)
+* [Games](#games)
+* [Streaming tools](#streaming-tools)
+* [Programming tools](#programming-tools)
+* [YouTube channels](#youtube-channels)
+  * [Theory](#theory)
+  * [Casting](#casting)
+  * [Humor](#humor)
+  * [Interviews](#interviews)
+  * [Music](#music)
+* [Twitch channels](#twitch-channels)
+* [Similar games](#similar-games)
+
+# Websites
+
+## Profiles
+
+* [AoE2Insights](https://www.aoe2insights.com/): match analysis and player profiles
+* [AoE II Companion](https://aoe2companion.com/leaderboard): track your games
+* [AoE2.GG](https://aoe2.gg/): player profiles and ELOs
+* [AgeOfEmpires.com](https://www.ageofempires.com/stats/ageiide): player statistics
+* [MultiProfile](https://aoe2.arkanosis.net/mp/): all of the above on a single page
+* [AoCRec](https://aocrec.com): open aoe2 record database. Upload, download, parse, search aoe2 records. Generate game & player profiles, statistics and ELO rating based on uploaded records
+* [AoE2 Analysis](https://aoe2analysis.com/): every player's openings & win/loss strategies
+
+## Documentation
+
+* [Age of Empires Unit Counters](https://age-of-empires-unit-counters.vercel.app/): units and their counters ([source code](https://github.com/lukethacoder/age-of-empires-unit-counters) ⭐ 5 | 🐛 1 | 🌐 TypeScript | 📅 2022-03-12)
+* [aoe-twools](https://aoetwools.firebaseapp.com/): tech tree per civ and civs per unit / tech ([source code](https://github.com/Kheyzell/aoe-twools) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2023-12-24)
+* [aoe2techtree.net](https://aoe2techtree.net/): civilizations tech trees
+* [Simplified tech tree](https://aoe2-de-tools.herokuapp.com/civ-ranking.html): tech tree relevant to 1v1 Arabia
+* [AoE 2 Database](https://www.aoe2database.com/): units, buildings, techs, civs database
+* [AoE2.is](https://aoe2.is/): condensed tech tree comparison between two civs (with live player tracking) and between all civs (with filtering capabilities)
+* [Halfon](https://halfon.aoe2.se/): unit, building and tech reference
+* [AoE II Infographic Gallery](https://aoe2tournaments.com/images): visual representations that help figuring out which upgrade is needed for an unit, and other things
+* [Counters matrix](https://docs.google.com/spreadsheets/d/12-xJ4ePJfGlyUNpmLwkYBsLLB2qM1ZdokABrZuZgL1Q/edit#gid=0): units and their counters
+* [Civilization Tool](https://tiny.cc/CivilizationTool): civilization strengths and weaknesses
+
+## Civilization pickers
+
+* [Captains Mode](https://aoe2cm.net/): draft players civs before a tournament
+* [Civpicker](https://aoe2.arkanosis.net/civpicker/): tell what you want to play, get the civs
+* [Random Civilization Selector](https://aoe-rcs.com/): pick a random civ in a predefined pool
+* [Fresh Random Civ Picker](https://github.com/cnordenb/Fresh-Random-Civ-Picker_GUI) ⭐ 4 | 🐛 7 | 🌐 C++ | 📅 2026-03-10: randomly iterate through a civ pool without drawing the same civ twice
+
+## Tools
+
+* [aoe2recs](https://aoe2recs.com/): recorded games
+* [Wololo rating distribution](https://tlgs.github.io/wololo/): 1v1 ELO distribution
+* [aoe2map](https://aoe2map.net/)
+* [Hotkey Editor](https://aokhotkeys.appspot.com/): an hotkey editor, with some popular presets
+* [Villagers required](https://aoe2-de-tools.herokuapp.com/villagers-required.html): number of villagers required to sustain constant unit production
+* [Unit Production Calculator](https://grishrl.github.io/): number of villagers required to sustain constant army production
+* [Unit production cheatsheet](https://aoe2.is/AOE%20Unit%20costs.pdf): number of villagers required to sustain constant unit production (in a single PDF page)
+* [aoe2calc](https://gbts.github.io/aoe2calc/) (note: does not support DE yet!)
+* [Age of Empires 2 Combat Simulator](https://aoe-combatsim.com/): units and their counters
+* [AoE2 Analyzer](https://aoe2.up.railway.app/): battle simulation, team analysis, civilazations strengths…
+* [Sage of Empires](https://sage-of-empires.web.app/): informations about civilizations and build orders to display while playing 1v1
+* [Random Rating Match Retriever](https://thbrown.github.io/aoe2-de-random-elo/): selecting a “random” game from the ongoing matches between two given rating values
+* [Civilization Builder](https://krakenmeister.com/civbuilder): easy-to-use tool for creating custom civilizations for AoE2
+* [Aoe2 Army Composition Calculator](https://conorbronsdon.github.io/aoe2-troop-calculator/): comprehensive army composition calculator that helps players plan their armies without needing Excel spreadsheets ([source code](https://github.com/conorbronsdon/aoe2-troop-calculator) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31
+* [AOE2Lobby](https://aoe2lobby.com/): list of lobbies updated in real-time, with filtering capabilities
+* [AoE2 Replay Viewer](https://liouh.com/aoe2/): upload a replay for minimap playback, key stats, and build timelines
+
+## Statistics
+
+* [aoestats](https://aoestats.io/): civilization win rate statistics broken down by elo, map, game length, patch
+* [AoE Pulse](https://www.aoepulse.com/): playrate of openings, civilization stats, tech timings…
+* [Rating charts](https://ratings.aoe2.se/): players / team ELO visulization within the overall ELO distribution
+* [Civilisation 1v1 Performance Statistics](https://gowerc.github.io/aoecps/outputs) ([source code](https://github.com/gowerc/aoecps))
+* [AOE2 Civ Overlap](https://docs.google.com/spreadsheets/d/1zMp6tkaJOR12xApt7F4UT3Rkm7bx3Y2o_dl41qfjmHA): table of pairwise similarity between civilization, measured as ratio of common available or missing non-unique units and techs over all
+* [Civilization Matchups](https://bookdown.org/gmcirco42/aoe_bayes/aoe_bayes.html): a bayesian approach to 1v1 civ matchups
+* [AoE Companion](https://aoecompanion.com/stats): civilization statistics
+
+## Guides
+
+* [Build order guide](https://buildorderguide.com): build orders and uptime calculator
+* [AoE2 Guide](https://aoe2.guide/): build orders, a few civilizations overview
+* [AoE Companion](https://aoecompanion.com/): build guides, unit counters, civilization overviews
+* [AoE Builds](https://www.aoebuilds.com/): build orders and blog
+* [PerfectTime](https://aoe2.arkanosis.net/pt/): perfect uptime calculator
+* [AoE2 on Linux](https://aoe2.arkanosis.net/linux/): play this Microsoft game on a free operating system
+* [AoE2 on macOS](https://github.com/mnapoli/aoe2-de-macos) ⭐ 147 | 🐛 14 | 📅 2023-08-17: play this Microsoft game on an Apple operating system
+
+## User Generated Content
+
+* [Random Map Scripting Guide](https://docs.google.com/document/d/1jnhZXoeL9mkRUJxcGlKnO98fIwFKStP_OBozpr0CHXo): create your own random maps
+* [AoE2DE UGC Guide](https://ugc.aoe2.rocks/) ([source code](https://github.com/Divy1211/AoE2DE_UGC_Guide) ⭐ 36 | 🐛 2 | 🌐 Python | 📅 2026-07-24)
+* [AoE2 AI Scripting Encyclopedia](https://airef.github.io/)
+
+## Tournaments
+
+* [AoE 2 Tournaments](https://aoe2tournaments.com/): centralized dashboard for tournaments of all sizes, with filters by Elo ([source code](https://github.com/watermullins/Tournaments-Board/) ⭐ 7 | 🐛 7 | 🌐 HTML | 📅 2025-12-29)
+* [Replay Packer](https://replaypacker.zeta-two.com/): arrange, rename and zip your aoe2record files as a submission for a tournament ([source code](https://github.com/ZetaTwo/aoe2replaypacker) ⭐ 3 | 🐛 17 | 🌐 Vue | 📅 2026-06-14)
+* [Captains Mode](https://aoe2cm.net/): draft players civs before a tournament
+* [Tournament Elo](https://aoe-elo.com/): alternative ELO ranking based only on tournament games
+
+## Wikis
+
+* [Fandom](https://ageofempires.fandom.com/wiki/Age_of_Empires_II:Portal): everything about the game
+* [liquipedia](https://liquipedia.net/ageofempires/Main_Page): everything about the scene
+
+## Communities
+
+* [r/aoe2/](https://www.reddit.com/r/aoe2/)
+* [AoEZone](https://www.aoezone.net/)
+* [Official AoE forums](https://forums.ageofempires.com/)
+* [Siege Engineers](https://aoe2.se/)
+
+## Blogs
+
+* [Age of Notes](https://ageofnotes.com/) ([RSS](https://ageofnotes.com/feed/))
+
+## Information
+
+* [AoE2 Glossary](https://www.forgottenempires.net/strategy/aoe2-glossary)
+* [Age of Empires II Names, Abbreviations and Acronyms](https://docs.google.com/spreadsheets/d/1EX_2Cmem6fjz4_x2WWR0-g6Ljt6CKNewO_xk9_2EJLg)
+
+# Programs
+
+* [SenseiDE](https://github.com/gregstein/SenseiDE) ⭐ 52 | 🐛 7 | 🌐 C# | 📅 2022-04-20: unleash the ultimate performance from Age of Empires 2 Definitive Edition
+* [DE Replays Manager](https://github.com/gregstein/DE-Replays-Manager) ⭐ 37 | 🐛 4 | 🌐 C# | 📅 2025-09-07: manage Age of Empires 2 Definitive Edition replays
+* [AoE2 DE Patcher](https://github.com/DJSchaffner/aoe2de_patcher) ⭐ 24 | 🐛 2 | 🌐 Python | 📅 2026-08-12: downgrade AoE2 to be able to watch recorded games created with previous patches
+* [CaptureAge](https://captureage.com/): spectating client with a custom overlay to display statistics not available in the game
+* [Wololo Downgrader](https://cyanide-aoe2.github.io/wololo-downgrader/): downgrade AoE2 to be able to watch recorded games created with previous patches
+* Advanced Genie Editor: see (or edit) game information (this program is shipped with the game: `Tools_Builds\AdvancedGenieEditor3.exe`)
+
+# Mods
+
+* [Mod Directory](https://mods.aoe2.se/)
+* [Interactive Build Order Guide](https://mods.aoe2.se/2359)
+
+# Smartphone apps
+
+* [AoE 2 Database](https://play.google.com/store/apps/details?id=com.aoedb): units, buildings, techs, civs database on Android
+* [AoE II Companion](https://aoe2companion.com/): track your games on Android and iOS
+
+# Games
+
+* [AoE 2 Database](https://play.google.com/store/apps/details?id=com.aoedb): quizzes on Android
+* [AoE2Grid](https://aoe2grid.robomeow.org/): daily trivia game to test Age of Empires 2 knowledge
+* [AoE2Win](https://aoe2.win/): daily quizzes
+
+# Streaming tools
+
+* [AoE II Companion](https://www.aoe2companion.com/more/api): API for Nightbot, to add `!rank` and `!match` commands to your Twitch chat
+* [RTS Overlay](https://github.com/CraftySalamander/RTS_Overlay) ⭐ 109 | 🐛 0 | 🌐 Python | 📅 2026-06-21: display build order and / or current game players' name, MMR, winrate, etc.
+
+# Programming tools
+
+* [mgz](https://github.com/happyleavesaoc/aoc-mgz) ⭐ 233 | 🐛 15 | 🌐 Python | 📅 2026-03-05: Age of Empires II recorded game parsing and summarization in Python 3
+* [genieutils](https://github.com/sandsmark/genieutils) ⭐ 28 | 🐛 3 | 🌐 C++ | 📅 2024-06-02: C++ library for reading and writing the file formats used in the Genie engine
+* [genie-rs](https://github.com/SiegeEngineers/genie-rs) ⭐ 18 | 🐛 12 | 🌐 Rust | 📅 2023-04-04: rust libraries for reading / writing various Age of Empires I/II files
+* [AoE2 minimap generator](https://github.com/Marfullsen/AoE2-minimap-generator) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-07-18: minimap generator from savegames
+* [aoe2rec](https://github.com/aoe2ct/aoe2rec/) ⭐ 10 | 🐛 11 | 🌐 Rust | 📅 2026-08-02: Age of Empires II recorded game parsing library in Rust, WASM and Python
+* [McMinimap](https://github.com/UnluckyForSome/McMinimap) ⚠️ Archived: minimap generator from savegames
+* [AoE2 Scenario Parser](https://ksneijders.github.io/AoE2ScenarioParser/): Python3 library to edit scenario files in Age of Empires II: Definitive Edition
+
+# YouTube channels
+
+## Theory
+
+* [Spirit Of The Law](https://www.youtube.com/@SpiritOfTheLaw): the maths of AoE2
+* [Empirant\_AOE](https://www.youtube.com/@empirant_aoe9534): more maths of AoE2
+* [T-West](https://www.youtube.com/@T-West): even more maths and mechanics analysis
+* [Hjörleif](https://www.youtube.com/@Hjoerleif): more game mechanics
+* [TechnoFeudGamingTV](https://www.youtube.com/@TechnoFeudGamingTV): statistics on players, tournaments…
+* [HumzaCrumza](https://www.youtube.com/@HumzaCrumza): non-meta build orders
+* [Poop Lord](https://www.youtube.com/@PoopLord): non-meta build orders
+
+## Casting
+
+* [Hera](https://www.youtube.com/@HeraAgeofEmpires2): own games, “So you want to play $CIVILIZATION” series, “Ultimate guide to $ELO” series…
+* [T90](https://www.youtube.com/@T90Official): tournaments, “The legend of $PLAYER” series, “Low ELO legends” series…
+
+## Humor
+
+* [Parsa Animations](https://www.youtube.com/c/Parsaw): Age of Empires Logic…
+
+## Interviews
+
+* [Kings & Plebeians](https://www.youtube.com/@MasmorraAoE): players, developers, content creators…
+* [Bored With Nelly](https://www.youtube.com/@BoredWithNelly/search?query=age%20of%20empires): developers, players…
+
+## Music
+
+* [Gonza Muñoz](https://www.youtube.com/c/GonzaloMunozPianista2016/search?query=age%20of%20empires)
+* [Alex Heflin](https://www.youtube.com/watch?v=ilFEmE_9lB0) (feat. insaneintherainmusic)
+* [Jon V Audio](https://www.youtube.com/watch?v=sKuAcFYmJ9s): original compositions using only game sounds
+* [4Hardy](https://www.youtube.com/watch?v=q879j3ydfw8\&list=PLWq0TTc6_9JjaE6XRZGfATd1H6PsvP_8D): original compositions using only game sounds
+
+## History
+
+* [Armchair Saurus](https://www.youtube.com/@armchairsaurus): historical reality behind AoE2 units, techs…
+* [Tiramis](https://www.youtube.com/@Tiramis_): history of the AoE2 community
+
+# Twitch channels
+
+# Similar games
+
+* [openage](https://openage.sft.mx/): a free (as in freedom) game engine to implement Age of Empires
+* [freeaoe](https://github.com/sandsmark/freeaoe) ⭐ 234 | 🐛 9 | 🌐 C++ | 📅 2022-12-08: a free (as in freedom) game engine to run Age of Empires
+* [0 A.D.](https://play0ad.com/): a free (as in freedom) game of ancient warfare inspired by Age of Empires
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

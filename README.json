@@ -1,0 +1,80 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Age of Empires Unit Counters",
+          "description": "units and their counters (source code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-03-12T03:27:29Z",
+            "owner": "lukethacoder",
+            "repo": "age-of-empires-unit-counters",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aoe-twools",
+          "description": "tech tree per civ and civs per unit / tech (source code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-12-24T15:34:36Z",
+            "owner": "Kheyzell",
+            "repo": "aoe-twools",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AoE 2 Tournaments",
+          "description": "centralized dashboard for tournaments of all sizes, with filters by Elo (source code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-12-29T16:08:53Z",
+            "owner": "watermullins",
+            "repo": "Tournaments-Board",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Replay Packer",
+          "description": "arrange, rename and zip your aoe2record files as a submission for a tournament (source code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-06-14T20:32:41Z",
+            "owner": "ZetaTwo",
+            "repo": "aoe2-replay-packer",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Tournaments"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T03:17:10.132Z",
+    "original_repository": "Arkanosis/awesome-aoe2",
+    "original_repository_sha": "97601ffaa96df891cb318a3c9916614ffe19ea1e",
+    "enhanced_repository": "enhansome/enhansome-aoe2",
+    "enhanced_repository_description": null,
+    "title": "Awesome Age of Empires II resources with stars"
+  }
+}

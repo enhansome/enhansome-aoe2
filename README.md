@@ -1,6 +1,6 @@
 # Awesome Age of Empires II resources with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 495,811 | 🐛 100 | 📅 2026-06-30 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 496,164 | 🐛 100 | 📅 2026-06-30 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
 
 You can contribute to this list by opening a [pull request](https://github.com/Arkanosis/awesome-aoe2/pulls) ⭐ 169 | 🐛 5 | 📅 2026-04-01 or [an issue](https://github.com/Arkanosis/awesome-aoe2/pulls) ⭐ 169 | 🐛 5 | 📅 2026-04-01.
 
@@ -144,7 +144,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 * [SenseiDE](https://github.com/gregstein/SenseiDE) ⭐ 52 | 🐛 7 | 🌐 C# | 📅 2022-04-20: unleash the ultimate performance from Age of Empires 2 Definitive Edition
 * [DE Replays Manager](https://github.com/gregstein/DE-Replays-Manager) ⭐ 37 | 🐛 4 | 🌐 C# | 📅 2025-09-07: manage Age of Empires 2 Definitive Edition replays
-* [AoE2 DE Patcher](https://github.com/DJSchaffner/aoe2de_patcher) ⭐ 24 | 🐛 2 | 🌐 Python | 📅 2026-08-12: downgrade AoE2 to be able to watch recorded games created with previous patches
+* [AoE2 DE Patcher](https://github.com/DJSchaffner/aoe2de_patcher) ⭐ 24 | 🐛 2 | 🌐 Python | 📅 2026-08-15: downgrade AoE2 to be able to watch recorded games created with previous patches
 * [CaptureAge](https://captureage.com/): spectating client with a custom overlay to display statistics not available in the game
 * [Wololo Downgrader](https://cyanide-aoe2.github.io/wololo-downgrader/): downgrade AoE2 to be able to watch recorded games created with previous patches
 * Advanced Genie Editor: see (or edit) game information (this program is shipped with the game: `Tools_Builds\AdvancedGenieEditor3.exe`)
@@ -223,9 +223,9 @@ As an alternative / complement to this list, you might want to have a look at th
 # Similar games
 
 * [openage](https://openage.sft.mx/): a free (as in freedom) game engine to implement Age of Empires
-* [freeaoe](https://github.com/sandsmark/freeaoe) ⭐ 234 | 🐛 9 | 🌐 C++ | 📅 2022-12-08: a free (as in freedom) game engine to run Age of Empires
+* [freeaoe](https://github.com/sandsmark/freeaoe) ⭐ 235 | 🐛 9 | 🌐 C++ | 📅 2022-12-08: a free (as in freedom) game engine to run Age of Empires
 * [0 A.D.](https://play0ad.com/): a free (as in freedom) game of ancient warfare inspired by Age of Empires
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

@@ -1,77 +1,237 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Age of Empires Unit Counters",
-          "description": "units and their counters (source code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-03-12T03:27:29Z",
-            "owner": "lukethacoder",
-            "repo": "age-of-empires-unit-counters",
-            "stars": 5
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Age of Empires Unit Counters",
+              "description": "units and their counters (source code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 464000862,
+                "language": "TypeScript",
+                "last_commit": "2022-03-12T03:27:29Z",
+                "owner": "lukethacoder",
+                "repo": "age-of-empires-unit-counters",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "aoe-twools",
+              "description": "tech tree per civ and civs per unit / tech (source code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 698327940,
+                "language": "TypeScript",
+                "last_commit": "2023-12-24T15:34:36Z",
+                "owner": "Kheyzell",
+                "repo": "aoe-twools",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Documentation"
         },
         {
-          "node_type": "item",
-          "title": "aoe-twools",
-          "description": "tech tree per civ and civs per unit / tech (source code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-12-24T15:34:36Z",
-            "owner": "Kheyzell",
-            "repo": "aoe-twools",
-            "stars": 3
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AoE 2 Tournaments",
+              "description": "centralized dashboard for tournaments of all sizes, with filters by Elo (source code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 861510970,
+                "language": "HTML",
+                "last_commit": "2025-12-29T16:08:53Z",
+                "owner": "watermullins",
+                "repo": "Tournaments-Board",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Replay Packer",
+              "description": "arrange, rename and zip your aoe2record files as a submission for a tournament (source code)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 773530593,
+                "language": "Vue",
+                "last_commit": "2026-06-14T20:32:41Z",
+                "owner": "ZetaTwo",
+                "repo": "aoe2-replay-packer",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tournaments"
         }
       ],
-      "title": "Documentation"
+      "title": "Websites"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "AoE 2 Tournaments",
-          "description": "centralized dashboard for tournaments of all sizes, with filters by Elo (source code)",
+          "title": "SenseiDE",
+          "description": "unleash the ultimate performance from Age of Empires 2 Definitive Edition",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "HTML",
-            "last_commit": "2025-12-29T16:08:53Z",
-            "owner": "watermullins",
-            "repo": "Tournaments-Board",
-            "stars": 7
+            "id": 349212716,
+            "language": "C#",
+            "last_commit": "2022-04-20T22:07:51Z",
+            "owner": "gregstein",
+            "repo": "SenseiDE",
+            "stars": 52
           }
         },
         {
           "node_type": "item",
-          "title": "Replay Packer",
-          "description": "arrange, rename and zip your aoe2record files as a submission for a tournament (source code)",
+          "title": "DE Replays Manager",
+          "description": "manage Age of Empires 2 Definitive Edition replays",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Vue",
-            "last_commit": "2026-06-14T20:32:41Z",
-            "owner": "ZetaTwo",
-            "repo": "aoe2-replay-packer",
-            "stars": 3
+            "id": 290899182,
+            "language": "C#",
+            "last_commit": "2025-09-07T17:40:26Z",
+            "owner": "gregstein",
+            "repo": "DE-Replays-Manager",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AoE2 DE Patcher",
+          "description": "downgrade AoE2 to be able to watch recorded games created with previous patches",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 282939904,
+            "language": "Python",
+            "last_commit": "2026-08-15T14:32:17Z",
+            "owner": "DJSchaffner",
+            "repo": "aoe2de_patcher",
+            "stars": 24
           }
         }
       ],
-      "title": "Tournaments"
+      "title": "Programs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mgz",
+          "description": "Age of Empires II recorded game parsing and summarization in Python 3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31382929,
+            "language": "Python",
+            "last_commit": "2026-03-05T13:32:48Z",
+            "owner": "happyleavesaoc",
+            "repo": "aoc-mgz",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "genieutils",
+          "description": "C++ library for reading and writing the file formats used in the Genie engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 220294347,
+            "language": "C++",
+            "last_commit": "2024-06-02T11:40:51Z",
+            "owner": "sandsmark",
+            "repo": "genieutils",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "genie-rs",
+          "description": "rust libraries for reading / writing various Age of Empires I/II files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 174433021,
+            "language": "Rust",
+            "last_commit": "2023-04-04T10:59:25Z",
+            "owner": "SiegeEngineers",
+            "repo": "genie-rs",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AoE2 minimap generator",
+          "description": "minimap generator from savegames",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357005368,
+            "language": "Python",
+            "last_commit": "2026-07-18T09:49:48Z",
+            "owner": "Marfullsen",
+            "repo": "AoE2-minimap-generator",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aoe2rec",
+          "description": "Age of Empires II recorded game parsing library in Rust, WASM and Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 915677592,
+            "language": "Rust",
+            "last_commit": "2026-08-02T18:44:07Z",
+            "owner": "aoe2ct",
+            "repo": "aoe2rec",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "McMinimap",
+          "description": "minimap generator from savegames",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 876154158,
+            "language": "Python",
+            "last_commit": "2026-07-07T14:04:20Z",
+            "owner": "UnluckyForSome",
+            "repo": "AOE2-McMinimap-py-legacy",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Programming tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:09:16.730Z",
+    "last_updated": "2026-08-19T12:18:54.715Z",
     "original_repository": "Arkanosis/awesome-aoe2",
+    "original_repository_id": 328414688,
     "original_repository_sha": "97601ffaa96df891cb318a3c9916614ffe19ea1e",
     "enhanced_repository": "enhansome/enhansome-aoe2",
     "enhanced_repository_description": null,

@@ -1,6 +1,6 @@
 # Awesome Age of Empires II resources with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 497,847 | 🐛 103 | 📅 2026-08-18 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 498,276 | 🐛 105 | 📅 2026-08-18 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
 
 You can contribute to this list by opening a [pull request](https://github.com/Arkanosis/awesome-aoe2/pulls) ⭐ 169 | 🐛 5 | 📅 2026-04-01 or [an issue](https://github.com/Arkanosis/awesome-aoe2/pulls) ⭐ 169 | 🐛 5 | 📅 2026-04-01.
 
@@ -109,7 +109,7 @@ As an alternative / complement to this list, you might want to have a look at th
 ## User Generated Content
 
 * [Random Map Scripting Guide](https://docs.google.com/document/d/1jnhZXoeL9mkRUJxcGlKnO98fIwFKStP_OBozpr0CHXo): create your own random maps
-* [AoE2DE UGC Guide](https://ugc.aoe2.rocks/) ([source code](https://github.com/Divy1211/AoE2DE_UGC_Guide) ⭐ 36 | 🐛 2 | 🌐 Python | 📅 2026-07-24)
+* [AoE2DE UGC Guide](https://ugc.aoe2.rocks/) ([source code](https://github.com/Divy1211/AoE2DE_UGC_Guide) ⭐ 36 | 🐛 3 | 🌐 Python | 📅 2026-07-24)
 * [AoE2 AI Scripting Encyclopedia](https://airef.github.io/)
 
 ## Tournaments
@@ -228,4 +228,4 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

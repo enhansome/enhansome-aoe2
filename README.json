@@ -203,7 +203,7 @@
             "archived": false,
             "id": 915677592,
             "language": "Rust",
-            "last_commit": "2026-08-02T18:44:07Z",
+            "last_commit": "2026-08-21T21:08:54Z",
             "owner": "aoe2ct",
             "repo": "aoe2rec",
             "stars": 10
@@ -229,7 +229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:15:07.615Z",
+    "last_updated": "2026-08-22T02:06:52.729Z",
     "original_repository": "Arkanosis/awesome-aoe2",
     "original_repository_id": 328414688,
     "original_repository_sha": "97601ffaa96df891cb318a3c9916614ffe19ea1e",

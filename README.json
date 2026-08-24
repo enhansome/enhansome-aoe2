@@ -122,7 +122,7 @@
             "archived": false,
             "id": 282939904,
             "language": "Python",
-            "last_commit": "2026-08-15T14:32:17Z",
+            "last_commit": "2026-08-23T16:12:04Z",
             "owner": "DJSchaffner",
             "repo": "aoe2de_patcher",
             "stars": 24
@@ -229,7 +229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:16:10.359Z",
+    "last_updated": "2026-08-24T02:14:11.359Z",
     "original_repository": "Arkanosis/awesome-aoe2",
     "original_repository_id": 328414688,
     "original_repository_sha": "97601ffaa96df891cb318a3c9916614ffe19ea1e",

@@ -1,8 +1,8 @@
 # Awesome Age of Empires II resources with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 499,320 | 🐛 106 | 📅 2026-08-21 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 499,520 | 🐛 106 | 📅 2026-08-21 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
 
-You can contribute to this list by opening a [pull request](https://github.com/Arkanosis/awesome-aoe2/pulls) ⭐ 169 | 🐛 5 | 📅 2026-04-01 or [an issue](https://github.com/Arkanosis/awesome-aoe2/pulls) ⭐ 169 | 🐛 5 | 📅 2026-04-01.
+You can contribute to this list by opening a [pull request](https://github.com/Arkanosis/awesome-aoe2/pulls) ⭐ 170 | 🐛 5 | 📅 2026-04-01 or [an issue](https://github.com/Arkanosis/awesome-aoe2/pulls) ⭐ 170 | 🐛 5 | 📅 2026-04-01.
 
 As an alternative / complement to this list, you might want to have a look at the [AOE Library](https://www.aoelibrary.com/).
 
@@ -62,13 +62,14 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ## Civilization pickers
 
+* [Fresh Random Civ Picker](https://github.com/cnordenb/Fresh-Random-Civ-Picker_GUI) ⭐ 4 | 🐛 7 | 🌐 C++ | 📅 2026-08-14: randomly iterate through a civ pool without drawing the same civ twice
 * [Captains Mode](https://aoe2cm.net/): draft players civs before a tournament
 * [Civpicker](https://aoe2.arkanosis.net/civpicker/): tell what you want to play, get the civs
 * [Random Civilization Selector](https://aoe-rcs.com/): pick a random civ in a predefined pool
-* [Fresh Random Civ Picker](https://github.com/cnordenb/Fresh-Random-Civ-Picker_GUI) ⭐ 4 | 🐛 7 | 🌐 C++ | 📅 2026-08-14: randomly iterate through a civ pool without drawing the same civ twice
 
 ## Tools
 
+* [Aoe2 Army Composition Calculator](https://conorbronsdon.github.io/aoe2-troop-calculator/): comprehensive army composition calculator that helps players plan their armies without needing Excel spreadsheets ([source code](https://github.com/conorbronsdon/aoe2-troop-calculator) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31
 * [aoe2recs](https://aoe2recs.com/): recorded games
 * [Wololo rating distribution](https://tlgs.github.io/wololo/): 1v1 ELO distribution
 * [aoe2map](https://aoe2map.net/)
@@ -82,7 +83,6 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Sage of Empires](https://sage-of-empires.web.app/): informations about civilizations and build orders to display while playing 1v1
 * [Random Rating Match Retriever](https://thbrown.github.io/aoe2-de-random-elo/): selecting a “random” game from the ongoing matches between two given rating values
 * [Civilization Builder](https://krakenmeister.com/civbuilder): easy-to-use tool for creating custom civilizations for AoE2
-* [Aoe2 Army Composition Calculator](https://conorbronsdon.github.io/aoe2-troop-calculator/): comprehensive army composition calculator that helps players plan their armies without needing Excel spreadsheets ([source code](https://github.com/conorbronsdon/aoe2-troop-calculator) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31
 * [AOE2Lobby](https://aoe2lobby.com/): list of lobbies updated in real-time, with filtering capabilities
 * [AoE2 Replay Viewer](https://liouh.com/aoe2/): upload a replay for minimap playback, key stats, and build timelines
 
@@ -98,18 +98,18 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ## Guides
 
+* [AoE2 on macOS](https://github.com/mnapoli/aoe2-de-macos) ⭐ 147 | 🐛 14 | 📅 2023-08-17: play this Microsoft game on an Apple operating system
 * [Build order guide](https://buildorderguide.com): build orders and uptime calculator
 * [AoE2 Guide](https://aoe2.guide/): build orders, a few civilizations overview
 * [AoE Companion](https://aoecompanion.com/): build guides, unit counters, civilization overviews
 * [AoE Builds](https://www.aoebuilds.com/): build orders and blog
 * [PerfectTime](https://aoe2.arkanosis.net/pt/): perfect uptime calculator
 * [AoE2 on Linux](https://aoe2.arkanosis.net/linux/): play this Microsoft game on a free operating system
-* [AoE2 on macOS](https://github.com/mnapoli/aoe2-de-macos) ⭐ 147 | 🐛 14 | 📅 2023-08-17: play this Microsoft game on an Apple operating system
 
 ## User Generated Content
 
-* [Random Map Scripting Guide](https://docs.google.com/document/d/1jnhZXoeL9mkRUJxcGlKnO98fIwFKStP_OBozpr0CHXo): create your own random maps
 * [AoE2DE UGC Guide](https://ugc.aoe2.rocks/) ([source code](https://github.com/Divy1211/AoE2DE_UGC_Guide) ⭐ 36 | 🐛 3 | 🌐 Python | 📅 2026-07-24)
+* [Random Map Scripting Guide](https://docs.google.com/document/d/1jnhZXoeL9mkRUJxcGlKnO98fIwFKStP_OBozpr0CHXo): create your own random maps
 * [AoE2 AI Scripting Encyclopedia](https://airef.github.io/)
 
 ## Tournaments

@@ -1,6 +1,6 @@
 # Awesome Age of Empires II resources with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 499,520 | 🐛 106 | 📅 2026-08-21 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 499,640 | 🐛 106 | 📅 2026-08-21 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
 
 You can contribute to this list by opening a [pull request](https://github.com/Arkanosis/awesome-aoe2/pulls) ⭐ 170 | 🐛 5 | 📅 2026-04-01 or [an issue](https://github.com/Arkanosis/awesome-aoe2/pulls) ⭐ 170 | 🐛 5 | 📅 2026-04-01.
 
@@ -108,7 +108,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ## User Generated Content
 
-* [AoE2DE UGC Guide](https://ugc.aoe2.rocks/) ([source code](https://github.com/Divy1211/AoE2DE_UGC_Guide) ⭐ 36 | 🐛 3 | 🌐 Python | 📅 2026-07-24)
+* [AoE2DE UGC Guide](https://ugc.aoe2.rocks/) ([source code](https://github.com/Divy1211/AoE2DE_UGC_Guide) ⭐ 36 | 🐛 2 | 🌐 Python | 📅 2026-07-24)
 * [Random Map Scripting Guide](https://docs.google.com/document/d/1jnhZXoeL9mkRUJxcGlKnO98fIwFKStP_OBozpr0CHXo): create your own random maps
 * [AoE2 AI Scripting Encyclopedia](https://airef.github.io/)
 
@@ -223,9 +223,9 @@ As an alternative / complement to this list, you might want to have a look at th
 # Similar games
 
 * [openage](https://openage.sft.mx/): a free (as in freedom) game engine to implement Age of Empires
-* [freeaoe](https://github.com/sandsmark/freeaoe) ⭐ 235 | 🐛 9 | 🌐 C++ | 📅 2022-12-08: a free (as in freedom) game engine to run Age of Empires
+* [freeaoe](https://github.com/sandsmark/freeaoe) ⭐ 236 | 🐛 9 | 🌐 C++ | 📅 2022-12-08: a free (as in freedom) game engine to run Age of Empires
 * [0 A.D.](https://play0ad.com/): a free (as in freedom) game of ancient warfare inspired by Age of Empires
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

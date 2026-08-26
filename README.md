@@ -1,6 +1,6 @@
 # Awesome Age of Empires II resources with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 499,706 | 🐛 106 | 📅 2026-08-21 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 499,948 | 🐛 106 | 📅 2026-08-21 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
 
 You can contribute to this list by opening a [pull request](https://github.com/Arkanosis/awesome-aoe2/pulls) ⭐ 170 | 🐛 5 | 📅 2026-04-01 or [an issue](https://github.com/Arkanosis/awesome-aoe2/pulls) ⭐ 170 | 🐛 5 | 📅 2026-04-01.
 
@@ -172,7 +172,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 # Programming tools
 
-* [mgz](https://github.com/happyleavesaoc/aoc-mgz) ⭐ 233 | 🐛 15 | 🌐 Python | 📅 2026-03-05: Age of Empires II recorded game parsing and summarization in Python 3
+* [mgz](https://github.com/happyleavesaoc/aoc-mgz) ⭐ 233 | 🐛 16 | 🌐 Python | 📅 2026-03-05: Age of Empires II recorded game parsing and summarization in Python 3
 * [genieutils](https://github.com/sandsmark/genieutils) ⭐ 28 | 🐛 3 | 🌐 C++ | 📅 2024-06-02: C++ library for reading and writing the file formats used in the Genie engine
 * [genie-rs](https://github.com/SiegeEngineers/genie-rs) ⭐ 18 | 🐛 12 | 🌐 Rust | 📅 2023-04-04: rust libraries for reading / writing various Age of Empires I/II files
 * [AoE2 minimap generator](https://github.com/Marfullsen/AoE2-minimap-generator) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-07-18: minimap generator from savegames
@@ -228,4 +228,4 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._

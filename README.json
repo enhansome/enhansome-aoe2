@@ -317,9 +317,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:15:58.085Z",
-    "original_repository": "Arkanosis/awesome-aoe2",
-    "original_repository_id": 328414688,
+    "last_updated": "2026-08-27T10:40:45.199Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 328414688,
+      "language": null,
+      "last_commit": "2026-04-01T17:31:50Z",
+      "owner": "Arkanosis",
+      "repo": "awesome-aoe2",
+      "stars": 170
+    },
     "original_repository_sha": "97601ffaa96df891cb318a3c9916614ffe19ea1e",
     "enhanced_repository": "enhansome/enhansome-aoe2",
     "enhanced_repository_description": null,

@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚔️ Age of Empires Unit Counter App",
+                "homepage": "https://age-of-empires-unit-counters.vercel.app",
                 "id": 464000862,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2022-03-12T03:27:29Z",
+                "open_issues": 1,
                 "owner": "lukethacoder",
                 "repo": "age-of-empires-unit-counters",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "age-of-empires",
+                  "age-of-empires-ii",
+                  "aoe",
+                  "aoe2de",
+                  "chakra-ui",
+                  "nextjs"
+                ]
               },
               "first_seen": "2026-08-28T12:18:43.592Z"
             },
@@ -28,12 +40,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Set of tools for the game Age of Empire 2",
+                "homepage": "https://aoetwools.firebaseapp.com",
                 "id": 698327940,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-12-24T15:34:36Z",
+                "open_issues": 0,
                 "owner": "Kheyzell",
                 "repo": "aoe-twools",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "age-of-empires-ii",
+                  "ageofempires2",
+                  "ageofempires2de",
+                  "ageofempires2definitive",
+                  "aoe2",
+                  "aoe2de",
+                  "rts-game"
+                ]
               },
               "first_seen": "2026-08-28T12:18:43.592Z"
             }
@@ -51,12 +76,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Draw random AoE2 civilisations from user-defined selection without receiving repetitions.",
+                "homepage": null,
                 "id": 912967051,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-14T09:17:38Z",
+                "open_issues": 7,
                 "owner": "cnordenb",
                 "repo": "Fresh-Random-Civ-Picker_GUI",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:18:43.592Z"
             }
@@ -74,12 +104,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Age of Empires II:  troop calculator built to enable easy army composition & cost calculations(without complex excel sheets). Inspired by Hera vs. Lewis, built for AOE2 Definitive Edition.",
+                "homepage": "https://conorbronsdon.github.io/aoe2-troop-calculator/",
                 "id": 1096857555,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-07-31T21:14:04Z",
+                "open_issues": 0,
                 "owner": "conorbronsdon",
                 "repo": "aoe2-troop-calculator",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "age-of-empires-ii",
+                  "ageofempires",
+                  "ageofempires2",
+                  "ageofempires2definitive",
+                  "aoe2",
+                  "aoe2de",
+                  "gaming-tool",
+                  "strategy-game",
+                  "unit-calculator"
+                ]
               },
               "first_seen": "2026-08-28T12:18:43.592Z"
             }
@@ -97,12 +142,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "How to run Age of Empires 2 DE on macOS",
+                "homepage": null,
                 "id": 655879312,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-08-17T08:19:55Z",
+                "open_issues": 14,
                 "owner": "mnapoli",
                 "repo": "aoe2-de-macos",
-                "stars": 147
+                "stars": 147,
+                "topics": []
               },
               "first_seen": "2026-08-28T12:18:43.592Z"
             }
@@ -120,12 +170,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Ultimate Guide to AoE2DE User Generated Content (UGC)",
+                "homepage": "https://ugc.aoe2.rocks/",
                 "id": 337964830,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-24T10:54:35Z",
+                "open_issues": 2,
                 "owner": "Divy1211",
                 "repo": "AoE2DE_UGC_Guide",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "aoe2",
+                  "editor",
+                  "guide",
+                  "scenario",
+                  "ugc"
+                ]
               },
               "first_seen": "2026-08-28T12:18:43.592Z"
             }
@@ -143,12 +204,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A site for finding aoe2 community tournaments",
+                "homepage": "https://aoe2tournaments.com/",
                 "id": 861510970,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2025-12-29T16:08:53Z",
+                "open_issues": 7,
                 "owner": "watermullins",
                 "repo": "Tournaments-Board",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "ageofempires2",
+                  "aoe2",
+                  "aoe2de",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-28T12:18:43.592Z"
             },
@@ -159,12 +230,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple utility page to generate zip archives for AoE2 match replays",
+                "homepage": "http://replaypacker.zeta-two.com/",
                 "id": 773530593,
                 "language": "Vue",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-14T20:32:41Z",
+                "open_issues": 17,
                 "owner": "ZetaTwo",
                 "repo": "aoe2-replay-packer",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "aoe2",
+                  "aoe2de"
+                ]
               },
               "first_seen": "2026-08-28T12:18:43.592Z"
             }
@@ -186,12 +265,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unleash The Ultimate Performance from Age of Empires 2 Definitive",
+            "homepage": null,
             "id": 349212716,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2022-04-20T22:07:51Z",
+            "open_issues": 7,
             "owner": "gregstein",
             "repo": "SenseiDE",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "ageofempires2definitive",
+              "aoe2",
+              "aoe2de",
+              "performance"
+            ]
           },
           "first_seen": "2026-08-28T12:18:43.592Z"
         },
@@ -202,12 +291,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage Age of Empires 2 Definitive Replays",
+            "homepage": null,
             "id": 290899182,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2025-09-07T17:40:26Z",
+            "open_issues": 4,
             "owner": "gregstein",
             "repo": "DE-Replays-Manager",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "ageofempires2",
+              "ageofempires2definitive",
+              "aoe2",
+              "replays"
+            ]
           },
           "first_seen": "2026-08-28T12:18:43.592Z"
         },
@@ -218,12 +317,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reverts patches in AoE2 DE (Steam version)",
+            "homepage": null,
             "id": 282939904,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-23T16:12:04Z",
+            "open_issues": 2,
             "owner": "DJSchaffner",
             "repo": "aoe2de_patcher",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "age-of-empires",
+              "aoe2"
+            ]
           },
           "first_seen": "2026-08-28T12:18:43.592Z"
         }
@@ -240,12 +347,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Age of Empires II recorded game parsing and summarization in Python 3.",
+            "homepage": null,
             "id": 31382929,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-05T13:32:48Z",
+            "open_issues": 16,
             "owner": "happyleavesaoc",
             "repo": "aoc-mgz",
-            "stars": 233
+            "stars": 233,
+            "topics": [
+              "aoc",
+              "aoe2",
+              "aoe2record",
+              "mgz",
+              "parser",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:18:43.592Z"
         },
@@ -256,12 +375,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for reading and writing the file formats used in the Genie engine (AoE, AoC, SWGB, etc.)",
+            "homepage": null,
             "id": 220294347,
             "language": "C++",
+            "license": "LGPL-3.0",
             "last_commit": "2024-06-02T11:40:51Z",
+            "open_issues": 3,
             "owner": "sandsmark",
             "repo": "genieutils",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "age-of-conquerors",
+              "age-of-empires",
+              "age-of-empires-ii",
+              "aoc",
+              "aoe",
+              "aoe2",
+              "aoe2hd",
+              "aok",
+              "game-resources",
+              "genie",
+              "genie-engine",
+              "star-wars-galactic-battlegrounds",
+              "swgb"
+            ]
           },
           "first_seen": "2026-08-28T12:18:43.592Z"
         },
@@ -272,12 +410,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust libraries for reading/writing various Age of Empires I/II files.",
+            "homepage": "https://docs.rs/genie",
             "id": 174433021,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2023-04-04T10:59:25Z",
+            "open_issues": 12,
             "owner": "SiegeEngineers",
             "repo": "genie-rs",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "age-of-empires",
+              "drs",
+              "genie-engine",
+              "scx"
+            ]
           },
           "first_seen": "2026-08-28T12:18:43.592Z"
         },
@@ -288,12 +436,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimap generator for Age of Empires 2 savegames.",
+            "homepage": null,
             "id": 357005368,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-18T09:49:48Z",
+            "open_issues": 0,
             "owner": "Marfullsen",
             "repo": "AoE2-minimap-generator",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "aoe2",
+              "games",
+              "mgz",
+              "minimap",
+              "pillow",
+              "python",
+              "recordedgame"
+            ]
           },
           "first_seen": "2026-08-28T12:18:43.592Z"
         },
@@ -304,12 +465,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ensemble of tools to parse and extract information from Age of Empires II: Definitive Edition recorded games",
+            "homepage": null,
             "id": 915677592,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-21T21:08:54Z",
+            "open_issues": 11,
             "owner": "aoe2ct",
             "repo": "aoe2rec",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "aoe2",
+              "aoe2de",
+              "aoe2record"
+            ]
           },
           "first_seen": "2026-08-28T12:18:43.592Z"
         },
@@ -320,12 +490,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Generates static Age of Empires 2 mini-maps using recorded game data.",
+            "homepage": null,
             "id": 876154158,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-07T14:04:20Z",
+            "open_issues": 0,
             "owner": "UnluckyForSome",
             "repo": "AOE2-McMinimap-py-legacy",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:18:43.592Z"
         }
@@ -334,15 +509,29 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:18:43.592Z",
+    "last_updated": "2026-08-29T04:51:47.858Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of awesome Age of Empires II resources ",
+      "homepage": null,
       "id": 328414688,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-04-01T17:31:50Z",
+      "open_issues": 5,
       "owner": "Arkanosis",
       "repo": "awesome-aoe2",
-      "stars": 170
+      "stars": 170,
+      "topics": [
+        "age-of-empires-ii",
+        "ageofempires",
+        "ageofempires2",
+        "ageofempires2definitive",
+        "aoe2",
+        "aoe2de",
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "97601ffaa96df891cb318a3c9916614ffe19ea1e",
     "enhanced_repository": "enhansome/enhansome-aoe2",

@@ -356,7 +356,7 @@
             "open_issues": 16,
             "owner": "happyleavesaoc",
             "repo": "aoc-mgz",
-            "stars": 233,
+            "stars": 234,
             "topics": [
               "aoc",
               "aoe2",
@@ -471,7 +471,7 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-08-21T21:08:54Z",
-            "open_issues": 11,
+            "open_issues": 12,
             "owner": "aoe2ct",
             "repo": "aoe2rec",
             "stars": 10,
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T05:58:01.943Z",
+    "last_updated": "2026-08-31T06:18:32.558Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",
@@ -521,7 +521,7 @@
       "open_issues": 5,
       "owner": "Arkanosis",
       "repo": "awesome-aoe2",
-      "stars": 170,
+      "stars": 171,
       "topics": [
         "age-of-empires-ii",
         "ageofempires",

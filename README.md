@@ -1,6 +1,6 @@
 # Awesome Age of Empires II resources with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 501,789 | 🐛 105 | 📅 2026-08-21 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 502,112 | 🐛 105 | 📅 2026-09-02 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
 
 You can contribute to this list by opening a [pull request](https://github.com/Arkanosis/awesome-aoe2/pulls) ⭐ 170 | 🐛 5 | 📅 2026-04-01 or [an issue](https://github.com/Arkanosis/awesome-aoe2/pulls) ⭐ 170 | 🐛 5 | 📅 2026-04-01.
 
@@ -168,7 +168,7 @@ As an alternative / complement to this list, you might want to have a look at th
 # Streaming tools
 
 * [AoE II Companion](https://www.aoe2companion.com/more/api): API for Nightbot, to add `!rank` and `!match` commands to your Twitch chat
-* [RTS Overlay](https://github.com/CraftySalamander/RTS_Overlay) ⭐ 108 | 🐛 0 | 🌐 Python | 📅 2026-06-21: display build order and / or current game players' name, MMR, winrate, etc.
+* [RTS Overlay](https://github.com/CraftySalamander/RTS_Overlay) ⭐ 109 | 🐛 0 | 🌐 Python | 📅 2026-06-21: display build order and / or current game players' name, MMR, winrate, etc.
 
 # Programming tools
 
@@ -228,4 +228,4 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._

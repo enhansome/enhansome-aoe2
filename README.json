@@ -470,8 +470,8 @@
             "id": 915677592,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-08-21T21:08:54Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-12T19:25:50Z",
+            "open_issues": 11,
             "owner": "aoe2ct",
             "repo": "aoe2rec",
             "stars": 10,
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T05:11:45.606Z",
+    "last_updated": "2026-09-13T05:26:20.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",

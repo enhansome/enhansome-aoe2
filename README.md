@@ -1,6 +1,6 @@
 # Awesome Age of Empires II resources with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 508,718 | 🐛 106 | 📅 2026-09-02 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 509,098 | 🐛 106 | 📅 2026-09-02 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
 
 You can contribute to this list by opening a [pull request](https://github.com/Arkanosis/awesome-aoe2/pulls) ⭐ 170 | 🐛 5 | 📅 2026-04-01 or [an issue](https://github.com/Arkanosis/awesome-aoe2/pulls) ⭐ 170 | 🐛 5 | 📅 2026-04-01.
 
@@ -108,14 +108,14 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ## User Generated Content
 
-* [AoE2DE UGC Guide](https://ugc.aoe2.rocks/) ([source code](https://github.com/Divy1211/AoE2DE_UGC_Guide) ⭐ 36 | 🐛 5 | 🌐 Python | 📅 2026-07-24)
+* [AoE2DE UGC Guide](https://ugc.aoe2.rocks/) ([source code](https://github.com/Divy1211/AoE2DE_UGC_Guide) ⭐ 36 | 🐛 4 | 🌐 Python | 📅 2026-09-22)
 * [Random Map Scripting Guide](https://docs.google.com/document/d/1jnhZXoeL9mkRUJxcGlKnO98fIwFKStP_OBozpr0CHXo): create your own random maps
 * [AoE2 AI Scripting Encyclopedia](https://airef.github.io/)
 
 ## Tournaments
 
 * [AoE 2 Tournaments](https://aoe2tournaments.com/): centralized dashboard for tournaments of all sizes, with filters by Elo ([source code](https://github.com/watermullins/Tournaments-Board/) ⭐ 7 | 🐛 7 | 🌐 HTML | 📅 2025-12-29)
-* [Replay Packer](https://replaypacker.zeta-two.com/): arrange, rename and zip your aoe2record files as a submission for a tournament ([source code](https://github.com/ZetaTwo/aoe2replaypacker) ⭐ 3 | 🐛 17 | 🌐 Vue | 📅 2026-06-14)
+* [Replay Packer](https://replaypacker.zeta-two.com/): arrange, rename and zip your aoe2record files as a submission for a tournament ([source code](https://github.com/ZetaTwo/aoe2replaypacker) ⭐ 3 | 🐛 17 | 🌐 Vue | 📅 2026-09-22)
 * [Captains Mode](https://aoe2cm.net/): draft players civs before a tournament
 * [Tournament Elo](https://aoe-elo.com/): alternative ELO ranking based only on tournament games
 
@@ -144,7 +144,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 * [SenseiDE](https://github.com/gregstein/SenseiDE) ⭐ 52 | 🐛 7 | 🌐 C# | 📅 2022-04-20: unleash the ultimate performance from Age of Empires 2 Definitive Edition
 * [DE Replays Manager](https://github.com/gregstein/DE-Replays-Manager) ⭐ 37 | 🐛 4 | 🌐 C# | 📅 2025-09-07: manage Age of Empires 2 Definitive Edition replays
-* [AoE2 DE Patcher](https://github.com/DJSchaffner/aoe2de_patcher) ⭐ 24 | 🐛 2 | 🌐 Python | 📅 2026-09-06: downgrade AoE2 to be able to watch recorded games created with previous patches
+* [AoE2 DE Patcher](https://github.com/DJSchaffner/aoe2de_patcher) ⭐ 24 | 🐛 2 | 🌐 Python | 📅 2026-09-22: downgrade AoE2 to be able to watch recorded games created with previous patches
 * [CaptureAge](https://captureage.com/): spectating client with a custom overlay to display statistics not available in the game
 * [Wololo Downgrader](https://cyanide-aoe2.github.io/wololo-downgrader/): downgrade AoE2 to be able to watch recorded games created with previous patches
 * Advanced Genie Editor: see (or edit) game information (this program is shipped with the game: `Tools_Builds\AdvancedGenieEditor3.exe`)
@@ -176,7 +176,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [genieutils](https://github.com/sandsmark/genieutils) ⭐ 28 | 🐛 3 | 🌐 C++ | 📅 2024-06-02: C++ library for reading and writing the file formats used in the Genie engine
 * [genie-rs](https://github.com/SiegeEngineers/genie-rs) ⭐ 18 | 🐛 12 | 🌐 Rust | 📅 2023-04-04: rust libraries for reading / writing various Age of Empires I/II files
 * [AoE2 minimap generator](https://github.com/Marfullsen/AoE2-minimap-generator) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-07-18: minimap generator from savegames
-* [aoe2rec](https://github.com/aoe2ct/aoe2rec/) ⭐ 10 | 🐛 11 | 🌐 Rust | 📅 2026-09-12: Age of Empires II recorded game parsing library in Rust, WASM and Python
+* [aoe2rec](https://github.com/aoe2ct/aoe2rec/) ⭐ 10 | 🐛 9 | 🌐 Rust | 📅 2026-09-22: Age of Empires II recorded game parsing library in Rust, WASM and Python
 * [McMinimap](https://github.com/UnluckyForSome/McMinimap) ⚠️ Archived: minimap generator from savegames
 * [AoE2 Scenario Parser](https://ksneijders.github.io/AoE2ScenarioParser/): Python3 library to edit scenario files in Age of Empires II: Definitive Edition
 
@@ -223,9 +223,9 @@ As an alternative / complement to this list, you might want to have a look at th
 # Similar games
 
 * [openage](https://openage.sft.mx/): a free (as in freedom) game engine to implement Age of Empires
-* [freeaoe](https://github.com/sandsmark/freeaoe) ⭐ 237 | 🐛 9 | 🌐 C++ | 📅 2022-12-08: a free (as in freedom) game engine to run Age of Empires
+* [freeaoe](https://github.com/sandsmark/freeaoe) ⭐ 238 | 🐛 9 | 🌐 C++ | 📅 2022-12-08: a free (as in freedom) game engine to run Age of Empires
 * [0 A.D.](https://play0ad.com/): a free (as in freedom) game of ancient warfare inspired by Age of Empires
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._

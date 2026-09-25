@@ -1,6 +1,6 @@
 # Awesome Age of Empires II resources with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 509,545 | 🐛 106 | 📅 2026-09-02 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 510,076 | 🐛 107 | 📅 2026-09-02 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
 
 You can contribute to this list by opening a [pull request](https://github.com/Arkanosis/awesome-aoe2/pulls) ⭐ 170 | 🐛 5 | 📅 2026-04-01 or [an issue](https://github.com/Arkanosis/awesome-aoe2/pulls) ⭐ 170 | 🐛 5 | 📅 2026-04-01.
 
@@ -69,7 +69,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ## Tools
 
-* [Aoe2 Army Composition Calculator](https://conorbronsdon.github.io/aoe2-troop-calculator/): comprehensive army composition calculator that helps players plan their armies without needing Excel spreadsheets ([source code](https://github.com/conorbronsdon/aoe2-troop-calculator) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-31
+* [Aoe2 Army Composition Calculator](https://conorbronsdon.github.io/aoe2-troop-calculator/): comprehensive army composition calculator that helps players plan their armies without needing Excel spreadsheets ([source code](https://github.com/conorbronsdon/aoe2-troop-calculator) ⚠️ Archived
 * [aoe2recs](https://aoe2recs.com/): recorded games
 * [Wololo rating distribution](https://tlgs.github.io/wololo/): 1v1 ELO distribution
 * [aoe2map](https://aoe2map.net/)
@@ -228,4 +228,4 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

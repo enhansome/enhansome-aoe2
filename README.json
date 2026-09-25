@@ -103,7 +103,7 @@
               "description": "comprehensive army composition calculator that helps players plan their armies without needing Excel spreadsheets (source code",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "An Age of Empires II:  troop calculator built to enable easy army composition & cost calculations(without complex excel sheets). Inspired by Hera vs. Lewis, built for AOE2 Definitive Edition.",
                 "homepage": "https://conorbronsdon.github.io/aoe2-troop-calculator/",
                 "id": 1096857555,
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T05:32:55.993Z",
+    "last_updated": "2026-09-25T05:31:42.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",

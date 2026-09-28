@@ -322,7 +322,7 @@
             "id": 282939904,
             "language": "Python",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-22T17:24:04Z",
+            "last_commit": "2026-09-27T12:51:10Z",
             "open_issues": 2,
             "owner": "DJSchaffner",
             "repo": "aoe2de_patcher",
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T05:54:28.982Z",
+    "last_updated": "2026-09-28T05:59:46.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",

@@ -356,7 +356,7 @@
             "open_issues": 16,
             "owner": "happyleavesaoc",
             "repo": "aoc-mgz",
-            "stars": 234,
+            "stars": 235,
             "topics": [
               "aoc",
               "aoe2",
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T06:18:01.547Z",
+    "last_updated": "2026-09-30T06:03:50.766Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",

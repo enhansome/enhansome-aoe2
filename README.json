@@ -235,7 +235,7 @@
                 "id": 773530593,
                 "language": "Vue",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T23:36:37Z",
+                "last_commit": "2026-10-01T16:48:16Z",
                 "open_issues": 17,
                 "owner": "ZetaTwo",
                 "repo": "aoe2-replay-packer",
@@ -470,8 +470,8 @@
             "id": 915677592,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-22T21:07:36Z",
-            "open_issues": 11,
+            "last_commit": "2026-10-01T18:26:00Z",
+            "open_issues": 9,
             "owner": "aoe2ct",
             "repo": "aoe2rec",
             "stars": 10,
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T06:37:57.215Z",
+    "last_updated": "2026-10-02T06:21:21.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",

@@ -166,7 +166,7 @@
             {
               "node_type": "item",
               "title": "AoE2DE UGC Guide",
-              "description": "(source code)",
+              "description": "Divy1211/AoE2DE_UGC_Guide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:21:21.001Z",
+    "last_updated": "2026-10-03T04:33:30.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",
@@ -521,7 +521,7 @@
       "open_issues": 5,
       "owner": "Arkanosis",
       "repo": "awesome-aoe2",
-      "stars": 171,
+      "stars": 172,
       "topics": [
         "age-of-empires-ii",
         "ageofempires",

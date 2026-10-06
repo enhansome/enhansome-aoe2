@@ -1,6 +1,6 @@
 # Awesome Age of Empires II resources with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 514,799 | 🐛 107 | 📅 2026-09-02 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 515,272 | 🐛 107 | 📅 2026-09-02 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
 
 You can contribute to this list by opening a [pull request](https://github.com/Arkanosis/awesome-aoe2/pulls) or [an issue](https://github.com/Arkanosis/awesome-aoe2/pulls).
 
@@ -62,7 +62,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ## Civilization pickers
 
-* [Fresh Random Civ Picker](https://github.com/cnordenb/Fresh-Random-Civ-Picker_GUI) ⭐ 4 | 🐛 7 | 🌐 C++ | 📅 2026-08-14: randomly iterate through a civ pool without drawing the same civ twice
+* [Fresh Random Civ Picker](https://github.com/cnordenb/Fresh-Random-Civ-Picker_GUI) ⭐ 4 | 🐛 7 | 🌐 C++ | 📅 2026-10-05: randomly iterate through a civ pool without drawing the same civ twice
 * [Captains Mode](https://aoe2cm.net/): draft players civs before a tournament
 * [Civpicker](https://aoe2.arkanosis.net/civpicker/): tell what you want to play, get the civs
 * [Random Civilization Selector](https://aoe-rcs.com/): pick a random civ in a predefined pool
@@ -176,7 +176,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [genieutils](https://github.com/sandsmark/genieutils) ⭐ 29 | 🐛 3 | 🌐 C++ | 📅 2024-06-02: C++ library for reading and writing the file formats used in the Genie engine
 * [genie-rs](https://github.com/SiegeEngineers/genie-rs) ⭐ 18 | 🐛 12 | 🌐 Rust | 📅 2023-04-04: rust libraries for reading / writing various Age of Empires I/II files
 * [AoE2 minimap generator](https://github.com/Marfullsen/AoE2-minimap-generator) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-07-18: minimap generator from savegames
-* [aoe2rec](https://github.com/aoe2ct/aoe2rec/) ⭐ 11 | 🐛 9 | 🌐 Rust | 📅 2026-10-01: Age of Empires II recorded game parsing library in Rust, WASM and Python
+* [aoe2rec](https://github.com/aoe2ct/aoe2rec/) ⭐ 11 | 🐛 10 | 🌐 Rust | 📅 2026-10-05: Age of Empires II recorded game parsing library in Rust, WASM and Python
 * [McMinimap](https://github.com/UnluckyForSome/McMinimap) ⚠️ Archived: minimap generator from savegames
 * [AoE2 Scenario Parser](https://ksneijders.github.io/AoE2ScenarioParser/): Python3 library to edit scenario files in Age of Empires II: Definitive Edition
 
@@ -228,4 +228,4 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

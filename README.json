@@ -81,7 +81,7 @@
                 "id": 912967051,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-08-14T09:17:38Z",
+                "last_commit": "2026-10-05T18:00:06Z",
                 "open_issues": 7,
                 "owner": "cnordenb",
                 "repo": "Fresh-Random-Civ-Picker_GUI",
@@ -470,8 +470,8 @@
             "id": 915677592,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-01T18:26:00Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-05T12:54:18Z",
+            "open_issues": 10,
             "owner": "aoe2ct",
             "repo": "aoe2rec",
             "stars": 11,
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T06:20:28.621Z",
+    "last_updated": "2026-10-06T06:56:12.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",

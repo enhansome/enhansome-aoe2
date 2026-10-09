@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T06:43:20.395Z",
+    "last_updated": "2026-10-09T06:50:17.481Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",
@@ -518,7 +518,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-04-01T17:31:50Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "Arkanosis",
       "repo": "awesome-aoe2",
       "stars": 172,

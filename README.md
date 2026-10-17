@@ -1,6 +1,6 @@
 # Awesome Age of Empires II resources with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 519,580 | 🐛 105 | 📅 2026-09-02 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 520,091 | 🐛 105 | 📅 2026-09-02 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
 
 You can contribute to this list by opening a [pull request](https://github.com/Arkanosis/awesome-aoe2/pulls) or [an issue](https://github.com/Arkanosis/awesome-aoe2/pulls).
 
@@ -62,7 +62,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ## Civilization pickers
 
-* [Fresh Random Civ Picker](https://github.com/cnordenb/Fresh-Random-Civ-Picker_GUI) ⭐ 4 | 🐛 7 | 🌐 C++ | 📅 2026-10-15: randomly iterate through a civ pool without drawing the same civ twice
+* [Fresh Random Civ Picker](https://github.com/cnordenb/Fresh-Random-Civ-Picker_GUI) ⭐ 4 | 🐛 7 | 🌐 C++ | 📅 2026-10-16: randomly iterate through a civ pool without drawing the same civ twice
 * [Captains Mode](https://aoe2cm.net/): draft players civs before a tournament
 * [Civpicker](https://aoe2.arkanosis.net/civpicker/): tell what you want to play, get the civs
 * [Random Civilization Selector](https://aoe-rcs.com/): pick a random civ in a predefined pool
@@ -228,4 +228,4 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._

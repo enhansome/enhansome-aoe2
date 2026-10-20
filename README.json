@@ -352,8 +352,8 @@
             "id": 31382929,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-03-05T13:32:48Z",
-            "open_issues": 17,
+            "last_commit": "2026-10-19T13:09:45Z",
+            "open_issues": 16,
             "owner": "happyleavesaoc",
             "repo": "aoc-mgz",
             "stars": 234,
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T05:24:57.990Z",
+    "last_updated": "2026-10-20T05:27:00.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",

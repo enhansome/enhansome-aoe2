@@ -233,10 +233,10 @@
                 "description": "Simple utility page to generate zip archives for AoE2 match replays",
                 "homepage": "http://replaypacker.zeta-two.com/",
                 "id": 773530593,
-                "language": "Vue",
+                "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T16:48:16Z",
-                "open_issues": 18,
+                "last_commit": "2026-10-28T14:01:51Z",
+                "open_issues": 10,
                 "owner": "ZetaTwo",
                 "repo": "aoe2-replay-packer",
                 "stars": 3,
@@ -326,7 +326,7 @@
             "open_issues": 2,
             "owner": "DJSchaffner",
             "repo": "aoe2de_patcher",
-            "stars": 25,
+            "stars": 26,
             "topics": [
               "age-of-empires",
               "aoe2"
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T06:23:26.747Z",
+    "last_updated": "2026-10-29T06:33:40.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",

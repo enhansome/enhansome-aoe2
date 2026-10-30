@@ -175,7 +175,7 @@
                 "id": 337964830,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-28T04:37:08Z",
+                "last_commit": "2026-10-29T19:27:46Z",
                 "open_issues": 4,
                 "owner": "Divy1211",
                 "repo": "AoE2DE_UGC_Guide",
@@ -326,7 +326,7 @@
             "open_issues": 2,
             "owner": "DJSchaffner",
             "repo": "aoe2de_patcher",
-            "stars": 26,
+            "stars": 27,
             "topics": [
               "age-of-empires",
               "aoe2"
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T06:33:40.791Z",
+    "last_updated": "2026-10-30T06:33:14.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",
@@ -521,7 +521,7 @@
       "open_issues": 6,
       "owner": "Arkanosis",
       "repo": "awesome-aoe2",
-      "stars": 173,
+      "stars": 174,
       "topics": [
         "age-of-empires-ii",
         "ageofempires",

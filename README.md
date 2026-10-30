@@ -1,6 +1,6 @@
 # Awesome Age of Empires II resources with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 526,436 | 🐛 105 | 📅 2026-09-02 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 526,969 | 🐛 105 | 📅 2026-09-02 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
 
 You can contribute to this list by opening a [pull request](https://github.com/Arkanosis/awesome-aoe2/pulls) or [an issue](https://github.com/Arkanosis/awesome-aoe2/pulls).
 
@@ -109,7 +109,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ## User Generated Content
 
-* [AoE2DE UGC Guide](https://ugc.aoe2.rocks/) ([source code](https://github.com/Divy1211/AoE2DE_UGC_Guide) ⭐ 36 | 🐛 4 | 🌐 Python | 📅 2026-10-28)
+* [AoE2DE UGC Guide](https://ugc.aoe2.rocks/) ([source code](https://github.com/Divy1211/AoE2DE_UGC_Guide) ⭐ 36 | 🐛 4 | 🌐 Python | 📅 2026-10-29)
 * [Random Map Scripting Guide](https://docs.google.com/document/d/1jnhZXoeL9mkRUJxcGlKnO98fIwFKStP_OBozpr0CHXo): create your own random maps
 * [AoE2 AI Scripting Encyclopedia](https://airef.github.io/)
 
@@ -145,7 +145,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 * [SenseiDE](https://github.com/gregstein/SenseiDE) ⭐ 52 | 🐛 7 | 🌐 C# | 📅 2022-04-20: unleash the ultimate performance from Age of Empires 2 Definitive Edition
 * [DE Replays Manager](https://github.com/gregstein/DE-Replays-Manager) ⭐ 37 | 🐛 4 | 🌐 C# | 📅 2025-09-07: manage Age of Empires 2 Definitive Edition replays
-* [AoE2 DE Patcher](https://github.com/DJSchaffner/aoe2de_patcher) ⭐ 26 | 🐛 2 | 🌐 Python | 📅 2026-10-27: downgrade AoE2 to be able to watch recorded games created with previous patches
+* [AoE2 DE Patcher](https://github.com/DJSchaffner/aoe2de_patcher) ⭐ 27 | 🐛 2 | 🌐 Python | 📅 2026-10-27: downgrade AoE2 to be able to watch recorded games created with previous patches
 * [CaptureAge](https://captureage.com/): spectating client with a custom overlay to display statistics not available in the game
 * [Wololo Downgrader](https://cyanide-aoe2.github.io/wololo-downgrader/): downgrade AoE2 to be able to watch recorded games created with previous patches
 * Advanced Genie Editor: see (or edit) game information (this program is shipped with the game: `Tools_Builds\AdvancedGenieEditor3.exe`)
@@ -229,4 +229,4 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._

@@ -326,7 +326,7 @@
             "open_issues": 2,
             "owner": "DJSchaffner",
             "repo": "aoe2de_patcher",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "age-of-empires",
               "aoe2"
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T07:01:32.249Z",
+    "last_updated": "2026-11-05T07:28:19.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",
@@ -518,7 +518,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-25T15:04:48Z",
-      "open_issues": 6,
+      "open_issues": 7,
       "owner": "Arkanosis",
       "repo": "awesome-aoe2",
       "stars": 174,

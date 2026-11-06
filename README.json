@@ -175,7 +175,7 @@
                 "id": 337964830,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-29T19:27:46Z",
+                "last_commit": "2026-11-05T23:27:17Z",
                 "open_issues": 4,
                 "owner": "Divy1211",
                 "repo": "AoE2DE_UGC_Guide",
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T07:28:19.557Z",
+    "last_updated": "2026-11-06T07:27:30.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",

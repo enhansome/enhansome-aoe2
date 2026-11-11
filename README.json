@@ -498,7 +498,7 @@
             "last_commit": "2026-07-07T14:04:20Z",
             "open_issues": 0,
             "owner": "UnluckyForSome",
-            "repo": "AOE2-McMinimap-py-legacy",
+            "repo": "AOE2-McMinimapLegacy",
             "stars": 9,
             "topics": []
           },
@@ -509,7 +509,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T07:49:16.843Z",
+    "last_updated": "2026-11-11T07:17:27.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",

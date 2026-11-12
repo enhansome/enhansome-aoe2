@@ -1,6 +1,6 @@
 # Awesome Age of Empires II resources with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 535,026 | 🐛 103 | 📅 2026-09-02 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 535,528 | 🐛 103 | 📅 2026-09-02 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
 
 You can contribute to this list by opening a [pull request](https://github.com/Arkanosis/awesome-aoe2/pulls) or [an issue](https://github.com/Arkanosis/awesome-aoe2/pulls).
 
@@ -46,6 +46,10 @@ As an alternative / complement to this list, you might want to have a look at th
 * [MultiProfile](https://aoe2.arkanosis.net/mp/): all of the above on a single page
 * [AoCRec](https://aocrec.com): open aoe2 record database. Upload, download, parse, search aoe2 records. Generate game & player profiles, statistics and ELO rating based on uploaded records
 * [AoE2 Analysis](https://aoe2analysis.com/): every player's openings & win/loss strategies
+* [AoE Buddy](https://aoebuddy.com/): civilization and map meta, build orders and player profiles
+* [AoEStats.net](https://aoestats.net/): live activity, current meta, pulse of the ladder
+* [aoe2.site](https://aoe2.site/): match history and live ranked games, with civilization win rates by ELO and map, team position (pocket/flank) win rates, and recorded-game search
+* [aoe2-scope](https://aoe2-scope.pages.dev): AoE2:DE match analyzer
 
 ## Documentation
 
@@ -55,10 +59,14 @@ As an alternative / complement to this list, you might want to have a look at th
 * [Simplified tech tree](https://aoe2-de-tools.herokuapp.com/civ-ranking.html): tech tree relevant to 1v1 Arabia
 * [AoE 2 Database](https://www.aoe2database.com/): units, buildings, techs, civs database
 * [AoE2.is](https://aoe2.is/): condensed tech tree comparison between two civs (with live player tracking) and between all civs (with filtering capabilities)
+* [Age of Empires II civ comparator](https://aoe2-civs.mnapoli.fr/): tech tree comparison of between all civs or a two-civs matchup (with optional live tracking of online games)
+* [AOE2 DE Unit Counter Guide](https://aoe2.fatcat.ninja/): unit counters and civ matchups
 * [Halfon](https://halfon.aoe2.se/): unit, building and tech reference
+* [Huginn & Muninn](https://huginn-muninn.tahir59201.workers.dev/): reference for units, technologies, buildings and civilizations
 * [AoE II Infographic Gallery](https://aoe2tournaments.com/images): visual representations that help figuring out which upgrade is needed for an unit, and other things
 * [Counters matrix](https://docs.google.com/spreadsheets/d/12-xJ4ePJfGlyUNpmLwkYBsLLB2qM1ZdokABrZuZgL1Q/edit#gid=0): units and their counters
 * [Civilization Tool](https://tiny.cc/CivilizationTool): civilization strengths and weaknesses
+* [AoE2 DB](https://aoe2db.com/): civilizations, units, buildings and techs with exact stats, plus a counter matrix derived from game data, battle simulator and build orders
 
 ## Civilization pickers
 
@@ -96,6 +104,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [AOE2 Civ Overlap](https://docs.google.com/spreadsheets/d/1zMp6tkaJOR12xApt7F4UT3Rkm7bx3Y2o_dl41qfjmHA): table of pairwise similarity between civilization, measured as ratio of common available or missing non-unique units and techs over all
 * [Civilization Matchups](https://bookdown.org/gmcirco42/aoe_bayes/aoe_bayes.html): a bayesian approach to 1v1 civ matchups
 * [AoE Companion](https://aoecompanion.com/stats): civilization statistics
+* [Empire Stats](https://empirestats.online/): civilizations and maps statistics
 
 ## Guides
 
@@ -146,6 +155,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [SenseiDE](https://github.com/gregstein/SenseiDE) ⭐ 52 | 🐛 7 | 🌐 C# | 📅 2022-04-20: unleash the ultimate performance from Age of Empires 2 Definitive Edition
 * [DE Replays Manager](https://github.com/gregstein/DE-Replays-Manager) ⭐ 37 | 🐛 4 | 🌐 C# | 📅 2025-09-07: manage Age of Empires 2 Definitive Edition replays
 * [AoE2 DE Patcher](https://github.com/DJSchaffner/aoe2de_patcher) ⭐ 28 | 🐛 2 | 🌐 Python | 📅 2026-11-06: downgrade AoE2 to be able to watch recorded games created with previous patches
+* [Wololand](https://ageofnotes.com/wololand/): Age of Empires II maps that grow around your (Windows) desktop icons ([source code](https://github.com/gregstein/wololand) ⭐ 21 | 🐛 0 | 🌐 Rust | 📅 2026-11-11)
 * [CaptureAge](https://captureage.com/): spectating client with a custom overlay to display statistics not available in the game
 * [Wololo Downgrader](https://cyanide-aoe2.github.io/wololo-downgrader/): downgrade AoE2 to be able to watch recorded games created with previous patches
 * Advanced Genie Editor: see (or edit) game information (this program is shipped with the game: `Tools_Builds\AdvancedGenieEditor3.exe`)
@@ -154,6 +164,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 * [Mod Directory](https://mods.aoe2.se/)
 * [Interactive Build Order Guide](https://mods.aoe2.se/2359)
+* [Anne\_HK AOE2DE Mod List](https://sites.google.com/view/aoe-anne-hk/home)
 
 # Smartphone apps
 
@@ -165,6 +176,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [AoE 2 Database](https://play.google.com/store/apps/details?id=com.aoedb): quizzes on Android
 * [AoE2Grid](https://aoe2grid.robomeow.org/): daily trivia game to test Age of Empires 2 knowledge
 * [AoE2Win](https://aoe2.win/): daily quizzes
+* [Roggan](https://rogganaoe2.com/): knowledge quiz
 
 # Streaming tools
 
@@ -177,7 +189,7 @@ As an alternative / complement to this list, you might want to have a look at th
 * [genieutils](https://github.com/sandsmark/genieutils) ⭐ 29 | 🐛 3 | 🌐 C++ | 📅 2024-06-02: C++ library for reading and writing the file formats used in the Genie engine
 * [genie-rs](https://github.com/SiegeEngineers/genie-rs) ⭐ 18 | 🐛 12 | 🌐 Rust | 📅 2023-04-04: rust libraries for reading / writing various Age of Empires I/II files
 * [AoE2 minimap generator](https://github.com/Marfullsen/AoE2-minimap-generator) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-07-18: minimap generator from savegames
-* [aoe2rec](https://github.com/aoe2ct/aoe2rec/) ⭐ 11 | 🐛 10 | 🌐 Rust | 📅 2026-10-05: Age of Empires II recorded game parsing library in Rust, WASM and Python
+* [aoe2rec](https://github.com/aoe2ct/aoe2rec/) ⭐ 11 | 🐛 11 | 🌐 Rust | 📅 2026-10-05: Age of Empires II recorded game parsing library in Rust, WASM and Python
 * [McMinimap](https://github.com/UnluckyForSome/McMinimap) ⚠️ Archived: minimap generator from savegames
 * [AoE2 Scenario Parser](https://ksneijders.github.io/AoE2ScenarioParser/): Python3 library to edit scenario files in Age of Empires II: Definitive Edition
 
@@ -229,4 +241,4 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._

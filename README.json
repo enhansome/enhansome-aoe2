@@ -326,7 +326,7 @@
             "open_issues": 0,
             "owner": "gregstein",
             "repo": "wololand",
-            "stars": 31,
+            "stars": 35,
             "topics": [
               "age-of-empires-2",
               "aoe2",
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T07:06:11.655Z",
+    "last_updated": "2026-11-15T07:17:26.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",
@@ -550,7 +550,7 @@
       "open_issues": 4,
       "owner": "Arkanosis",
       "repo": "awesome-aoe2",
-      "stars": 173,
+      "stars": 174,
       "topics": [
         "age-of-empires-ii",
         "ageofempires",

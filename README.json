@@ -300,7 +300,7 @@
             "open_issues": 4,
             "owner": "gregstein",
             "repo": "DE-Replays-Manager",
-            "stars": 37,
+            "stars": 38,
             "topics": [
               "ageofempires2",
               "ageofempires2definitive",
@@ -323,10 +323,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-11-12T19:04:33Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "gregstein",
             "repo": "wololand",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "age-of-empires-2",
               "aoe2",
@@ -474,7 +474,7 @@
             "open_issues": 0,
             "owner": "Marfullsen",
             "repo": "AoE2-minimap-generator",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "aoe2",
               "games",
@@ -503,7 +503,7 @@
             "open_issues": 11,
             "owner": "aoe2ct",
             "repo": "aoe2rec",
-            "stars": 11,
+            "stars": 12,
             "topics": [
               "aoe2",
               "aoe2de",
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T07:17:26.197Z",
+    "last_updated": "2026-11-16T07:23:04.657Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",
@@ -550,7 +550,7 @@
       "open_issues": 4,
       "owner": "Arkanosis",
       "repo": "awesome-aoe2",
-      "stars": 174,
+      "stars": 175,
       "topics": [
         "age-of-empires-ii",
         "ageofempires",

@@ -81,7 +81,7 @@
                 "id": 912967051,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-20T05:15:12Z",
+                "last_commit": "2026-11-20T17:12:19Z",
                 "open_issues": 7,
                 "owner": "cnordenb",
                 "repo": "frcp-desktop",
@@ -538,7 +538,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T07:50:37.930Z",
+    "last_updated": "2026-11-21T07:46:48.627Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",

@@ -71,24 +71,45 @@
           "children": [
             {
               "node_type": "item",
-              "title": "Fresh Random Civ Picker",
-              "description": "randomly iterate through a civ pool without drawing the same civ twice",
+              "title": "Civ Explorer",
+              "description": "list the civilisations that have all selected techs (source code)",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Draw random AoE2 civilisations from user-defined selection without receiving repetitions.",
-                "homepage": null,
-                "id": 912967051,
-                "language": "C++",
+                "description": "Explore AoE2 civs by tech availability",
+                "homepage": "https://civexplorer.net/",
+                "id": 1424406083,
+                "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-11-20T17:12:19Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-20T15:48:04Z",
+                "open_issues": 1,
                 "owner": "cnordenb",
-                "repo": "frcp-desktop",
-                "stars": 3,
+                "repo": "civexplorer.net",
+                "stars": 1,
                 "topics": []
               },
-              "first_seen": "2026-08-28T12:18:43.592Z"
+              "first_seen": "2026-11-22T07:33:25.904Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Fresh Random Civ Picker",
+              "description": "randomly iterate through a civ pool without drawing the same civ twice (source code, Windows version)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Fresh Random Civ Picker in the browser",
+                "homepage": "https://frcp.net/",
+                "id": 1411979614,
+                "language": "JavaScript",
+                "license": "MIT",
+                "last_commit": "2026-11-20T04:34:20Z",
+                "open_issues": 2,
+                "owner": "cnordenb",
+                "repo": "frcp.net",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-11-22T07:33:25.904Z"
             }
           ],
           "description": null,
@@ -100,7 +121,7 @@
             {
               "node_type": "item",
               "title": "Aoe2 Army Composition Calculator",
-              "description": "comprehensive army composition calculator that helps players plan their armies without needing Excel spreadsheets (source code",
+              "description": "comprehensive army composition calculator that helps players plan their armies without needing Excel spreadsheets (source code)",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -524,7 +545,7 @@
             "id": 876154158,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-07-07T14:04:20Z",
+            "last_commit": "2026-11-21T18:57:54Z",
             "open_issues": 0,
             "owner": "UnluckyForSome",
             "repo": "AOE2-McMinimapLegacy",
@@ -538,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T07:46:48.627Z",
+    "last_updated": "2026-11-22T07:33:25.904Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",
@@ -546,7 +567,7 @@
       "id": 328414688,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-11-11T19:36:21Z",
+      "last_commit": "2026-11-21T16:15:33Z",
       "open_issues": 4,
       "owner": "Arkanosis",
       "repo": "awesome-aoe2",
@@ -562,7 +583,7 @@
         "awesome-list"
       ]
     },
-    "original_repository_sha": "28251681d5937cc6aac6d1d75216628ed4ecbe82",
+    "original_repository_sha": "cf4415ef48e38ea21d8f0b9e522ecfd202b33667",
     "enhanced_repository": "enhansome/enhansome-aoe2",
     "enhanced_repository_description": null,
     "title": "Awesome Age of Empires II resources with stars"

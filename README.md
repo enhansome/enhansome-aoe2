@@ -1,6 +1,6 @@
 # Awesome Age of Empires II resources with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 541,289 | 🐛 103 | 📅 2026-09-02 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 541,941 | 🐛 103 | 📅 2026-09-02 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
 
 You can contribute to this list by opening a [pull request](https://github.com/Arkanosis/awesome-aoe2/pulls) or [an issue](https://github.com/Arkanosis/awesome-aoe2/pulls).
 
@@ -155,8 +155,8 @@ As an alternative / complement to this list, you might want to have a look at th
 # Programs
 
 * [SenseiDE](https://github.com/gregstein/SenseiDE) ⭐ 52 | 🐛 7 | 🌐 C# | 📅 2022-04-20: unleash the ultimate performance from Age of Empires 2 Definitive Edition
+* [Wololand](https://ageofnotes.com/wololand/): Age of Empires II maps that grow around your (Windows) desktop icons ([source code](https://github.com/gregstein/wololand) ⭐ 40 | 🐛 1 | 🌐 Rust | 📅 2026-11-12)
 * [DE Replays Manager](https://github.com/gregstein/DE-Replays-Manager) ⭐ 38 | 🐛 4 | 🌐 C# | 📅 2025-09-07: manage Age of Empires 2 Definitive Edition replays
-* [Wololand](https://ageofnotes.com/wololand/): Age of Empires II maps that grow around your (Windows) desktop icons ([source code](https://github.com/gregstein/wololand) ⭐ 38 | 🐛 1 | 🌐 Rust | 📅 2026-11-12)
 * [AoE2 DE Patcher](https://github.com/DJSchaffner/aoe2de_patcher) ⭐ 28 | 🐛 2 | 🌐 Python | 📅 2026-11-06: downgrade AoE2 to be able to watch recorded games created with previous patches
 * [CaptureAge](https://captureage.com/): spectating client with a custom overlay to display statistics not available in the game
 * [Wololo Downgrader](https://cyanide-aoe2.github.io/wololo-downgrader/): downgrade AoE2 to be able to watch recorded games created with previous patches
@@ -243,4 +243,4 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._

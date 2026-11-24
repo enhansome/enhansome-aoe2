@@ -307,6 +307,35 @@
         },
         {
           "node_type": "item",
+          "title": "Wololand",
+          "description": "Age of Empires II maps that grow around your (Windows) desktop icons (source code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Age of Empires II maps that grow around your Windows desktop icons. A live wallpaper in Rust.",
+            "homepage": "https://ageofnotes.com/wololand/",
+            "id": 1453293726,
+            "language": "Rust",
+            "license": "MIT",
+            "last_commit": "2026-11-12T19:04:33Z",
+            "open_issues": 1,
+            "owner": "gregstein",
+            "repo": "wololand",
+            "stars": 40,
+            "topics": [
+              "age-of-empires-2",
+              "aoe2",
+              "desktop",
+              "live-wallpaper",
+              "rust",
+              "wallpaper",
+              "windows"
+            ]
+          },
+          "first_seen": "2026-11-12T07:48:21.160Z"
+        },
+        {
+          "node_type": "item",
           "title": "DE Replays Manager",
           "description": "manage Age of Empires 2 Definitive Edition replays",
           "children": [],
@@ -330,35 +359,6 @@
             ]
           },
           "first_seen": "2026-08-28T12:18:43.592Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Wololand",
-          "description": "Age of Empires II maps that grow around your (Windows) desktop icons (source code)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Age of Empires II maps that grow around your Windows desktop icons. A live wallpaper in Rust.",
-            "homepage": "https://ageofnotes.com/wololand/",
-            "id": 1453293726,
-            "language": "Rust",
-            "license": "MIT",
-            "last_commit": "2026-11-12T19:04:33Z",
-            "open_issues": 1,
-            "owner": "gregstein",
-            "repo": "wololand",
-            "stars": 38,
-            "topics": [
-              "age-of-empires-2",
-              "aoe2",
-              "desktop",
-              "live-wallpaper",
-              "rust",
-              "wallpaper",
-              "windows"
-            ]
-          },
-          "first_seen": "2026-11-12T07:48:21.160Z"
         },
         {
           "node_type": "item",
@@ -559,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T08:20:22.847Z",
+    "last_updated": "2026-11-24T10:29:43.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",

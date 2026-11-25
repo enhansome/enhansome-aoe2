@@ -1,6 +1,6 @@
 # Awesome Age of Empires II resources with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 541,941 | 🐛 103 | 📅 2026-09-02 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 542,517 | 🐛 103 | 📅 2026-09-02 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
 
 You can contribute to this list by opening a [pull request](https://github.com/Arkanosis/awesome-aoe2/pulls) or [an issue](https://github.com/Arkanosis/awesome-aoe2/pulls).
 
@@ -154,7 +154,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 # Programs
 
-* [SenseiDE](https://github.com/gregstein/SenseiDE) ⭐ 52 | 🐛 7 | 🌐 C# | 📅 2022-04-20: unleash the ultimate performance from Age of Empires 2 Definitive Edition
+* [SenseiDE](https://github.com/gregstein/SenseiDE) ⭐ 53 | 🐛 7 | 🌐 C# | 📅 2022-04-20: unleash the ultimate performance from Age of Empires 2 Definitive Edition
 * [Wololand](https://ageofnotes.com/wololand/): Age of Empires II maps that grow around your (Windows) desktop icons ([source code](https://github.com/gregstein/wololand) ⭐ 40 | 🐛 1 | 🌐 Rust | 📅 2026-11-12)
 * [DE Replays Manager](https://github.com/gregstein/DE-Replays-Manager) ⭐ 38 | 🐛 4 | 🌐 C# | 📅 2025-09-07: manage Age of Empires 2 Definitive Edition replays
 * [AoE2 DE Patcher](https://github.com/DJSchaffner/aoe2de_patcher) ⭐ 28 | 🐛 2 | 🌐 Python | 📅 2026-11-06: downgrade AoE2 to be able to watch recorded games created with previous patches
@@ -238,9 +238,9 @@ As an alternative / complement to this list, you might want to have a look at th
 # Similar games
 
 * [openage](https://openage.sft.mx/): a free (as in freedom) game engine to implement Age of Empires
-* [freeaoe](https://github.com/sandsmark/freeaoe) ⭐ 242 | 🐛 9 | 🌐 C++ | 📅 2022-12-08: a free (as in freedom) game engine to run Age of Empires
+* [freeaoe](https://github.com/sandsmark/freeaoe) ⭐ 243 | 🐛 9 | 🌐 C++ | 📅 2022-12-08: a free (as in freedom) game engine to run Age of Empires
 * [0 A.D.](https://play0ad.com/): a free (as in freedom) game of ancient warfare inspired by Age of Empires
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._

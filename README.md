@@ -1,6 +1,6 @@
 # Awesome Age of Empires II resources with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 542,517 | 🐛 103 | 📅 2026-09-02 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 543,023 | 🐛 103 | 📅 2026-09-02 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
 
 You can contribute to this list by opening a [pull request](https://github.com/Arkanosis/awesome-aoe2/pulls) or [an issue](https://github.com/Arkanosis/awesome-aoe2/pulls).
 
@@ -127,7 +127,7 @@ As an alternative / complement to this list, you might want to have a look at th
 ## Tournaments
 
 * [AoE 2 Tournaments](https://aoe2tournaments.com/): centralized dashboard for tournaments of all sizes, with filters by Elo ([source code](https://github.com/watermullins/Tournaments-Board/) ⭐ 7 | 🐛 7 | 🌐 HTML | 📅 2025-12-29)
-* [Replay Packer](https://replaypacker.zeta-two.com/): arrange, rename and zip your aoe2record files as a submission for a tournament ([source code](https://github.com/ZetaTwo/aoe2replaypacker) ⭐ 3 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-07)
+* [Replay Packer](https://replaypacker.zeta-two.com/): arrange, rename and zip your aoe2record files as a submission for a tournament ([source code](https://github.com/ZetaTwo/aoe2replaypacker) ⭐ 3 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-25)
 * [Captains Mode](https://aoe2cm.net/): draft players civs before a tournament
 * [Tournament Elo](https://aoe-elo.com/): alternative ELO ranking based only on tournament games
 
@@ -243,4 +243,4 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._

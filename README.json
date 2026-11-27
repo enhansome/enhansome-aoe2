@@ -168,11 +168,11 @@
                 "id": 655879312,
                 "language": null,
                 "license": null,
-                "last_commit": "2023-08-17T08:19:55Z",
+                "last_commit": "2026-11-26T21:07:26Z",
                 "open_issues": 14,
                 "owner": "mnapoli",
                 "repo": "aoe2-de-macos",
-                "stars": 148,
+                "stars": 149,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:18:43.592Z"
@@ -197,7 +197,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-09T21:01:46Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "Divy1211",
                 "repo": "AoE2DE_UGC_Guide",
                 "stars": 36,
@@ -559,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T08:57:41.545Z",
+    "last_updated": "2026-11-27T09:10:19.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",

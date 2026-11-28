@@ -169,7 +169,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-11-26T21:07:26Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "mnapoli",
                 "repo": "aoe2-de-macos",
                 "stars": 149,
@@ -559,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T09:10:19.592Z",
+    "last_updated": "2026-11-28T08:31:04.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome Age of Empires II resources ",

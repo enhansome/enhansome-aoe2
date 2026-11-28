@@ -1,6 +1,6 @@
 # Awesome Age of Empires II resources with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 543,641 | 🐛 103 | 📅 2026-09-02 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 544,093 | 🐛 103 | 📅 2026-09-02 of resources for the [Age of Empires II](https://www.ageofempires.com/games/aoeiide/) real-time strategy video-game.
 
 You can contribute to this list by opening a [pull request](https://github.com/Arkanosis/awesome-aoe2/pulls) or [an issue](https://github.com/Arkanosis/awesome-aoe2/pulls).
 
@@ -110,7 +110,7 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ## Guides
 
-* [AoE2 on macOS](https://github.com/mnapoli/aoe2-de-macos) ⭐ 149 | 🐛 14 | 📅 2026-11-26: play this Microsoft game on an Apple operating system
+* [AoE2 on macOS](https://github.com/mnapoli/aoe2-de-macos) ⭐ 149 | 🐛 15 | 📅 2026-11-26: play this Microsoft game on an Apple operating system
 * [Build order guide](https://buildorderguide.com): build orders and uptime calculator
 * [AoE2 Guide](https://aoe2.guide/): build orders, a few civilizations overview
 * [AoE Companion](https://aoecompanion.com/): build guides, unit counters, civilization overviews
@@ -243,4 +243,4 @@ As an alternative / complement to this list, you might want to have a look at th
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
